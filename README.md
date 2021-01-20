@@ -21,4 +21,4 @@ Question 02 - React-based Web Application •
  • Also, please delete the configuration variable from the package.json script segmentdotenv never overrides variables if they are already configured. 
  • The book API has used from the https://developer.nytimes.com/. General functionality: 
 
-![](images/Buy Now.png)
+![](images/BuyNow.png)
