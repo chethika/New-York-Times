@@ -31,8 +31,6 @@
  
  • It is ideal for using API keys and other sensitive stuff because .env file can be ignored by the Git. 
  
- • For more info, refer the DOTENV and React documentation. 
- 
  • Also, please delete the configuration variable from the package.json script segmentdotenv never overrides variables if they are already configured. 
  
  • The book API has used from the https://developer.nytimes.com/.
