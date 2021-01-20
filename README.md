@@ -7,9 +7,10 @@ Question 02 - React-based Web Application •
  • First, the web application loading the data and view the top sold book list and book list is displayed by using a card view. 
  • Each one is displayed the details of the book such as book title and description about the particular book. 
  • There are two buttons with every card. One is to purchase the books from Amazon and it has linked to the Amazon website and other button is to view the book details. 
- • But I have displayed all the important book details in the first page. 
+
  
  To Run the Web Application 
+ 
  • Clone the project. 
  • Use “npm install” to install the all required dependencies. 
  • Use “npm start” to start the local server 
@@ -20,5 +21,13 @@ Question 02 - React-based Web Application •
  • For more info, refer the DOTENV and React documentation. 
  • Also, please delete the configuration variable from the package.json script segmentdotenv never overrides variables if they are already configured. 
  • The book API has used from the https://developer.nytimes.com/. General functionality: 
+ 
+ Home Pages
+![](Screenshots/Home1.png)
+![](Screenshots/Home2.png)
+![](Screenshots/Home3.png)
 
+Buy Now
 ![](Screenshots/BuyNow.png)
+
+
