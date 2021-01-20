@@ -1,4 +1,4 @@
-Question 02 - React-based Web Application •
+Question 02 - React-based Web Application 
 
  The task was to create web application to show the New York Times best-selling books list. 
  
@@ -18,22 +18,33 @@ Question 02 - React-based Web Application •
  To Run the Web Application 
  
  • Clone the project. 
+ 
  • Use “npm install” to install the all required dependencies. 
- • Use “npm start” to start the local server 
+ 
+ • Use “npm start” to start the local server.
+ 
  • This web application uses “create-react-app”. 
+ 
  • The standard React's port 3000 is used to run this project. 
+ 
  • In the scripts section of package.json, you can configure the port. 
+ 
  • It is ideal for using API keys and other sensitive stuff because .env file can be ignored by the Git. 
+ 
  • For more info, refer the DOTENV and React documentation. 
+ 
  • Also, please delete the configuration variable from the package.json script segmentdotenv never overrides variables if they are already configured. 
+ 
  • The book API has used from the https://developer.nytimes.com/. General functionality: 
  
  Home Pages
+ 
 ![](Screenshots/Home1.png)
 ![](Screenshots/Home2.png)
 ![](Screenshots/Home3.png)
 
 Buy Now
+
 ![](Screenshots/BuyNow.png)
 
 
