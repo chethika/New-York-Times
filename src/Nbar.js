@@ -7,7 +7,7 @@ class Nbar extends React.Component{
     render(){
         return(
             <Navbar bg="light" expand="lg">
-                <Navbar.Brand href="#home"><b>New York Times</b></Navbar.Brand>
+                <Navbar.Brand href="#home"><b><center>New York Times</center></b></Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="mr-auto">    
