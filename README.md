@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> 2ecd80b535ac56d824172f03054f042395054774
 Question 02 - React-based Web Application •
 
  The task was to create web application to show the New York Times best-selling books list. 
@@ -24,10 +20,3 @@ Question 02 - React-based Web Application •
  • For more info, refer the DOTENV and React documentation. 
  • Also, please delete the configuration variable from the package.json script segmentdotenv never overrides variables if they are already configured. 
  • The book API has used from the https://developer.nytimes.com/. General functionality: 
-
-<<<<<<< HEAD
-
-=======
- Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
->>>>>>> 2ecd80b535ac56d824172f03054f042395054774
