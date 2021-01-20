@@ -1,11 +1,17 @@
 Question 02 - React-based Web Application •
 
  The task was to create web application to show the New York Times best-selling books list. 
+ 
  • For that, I have used the given API according to the given instructions. 
+ 
  • By using the web application which has been developed, the user can view the top sold book list. 
- • The web application is consisted with a nav bar with the title of the web application. 
+ 
+ • The web application is consisted with a nav bar with the title of the web application.
+ 
  • First, the web application loading the data and view the top sold book list and book list is displayed by using a card view. 
+ 
  • Each one is displayed the details of the book such as book title and description about the particular book. 
+ 
  • There are two buttons with every card. One is to purchase the books from Amazon and it has linked to the Amazon website and other button is to view the book details. 
 
  
