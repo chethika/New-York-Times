@@ -35,15 +35,15 @@
  
  • Also, please delete the configuration variable from the package.json script segmentdotenv never overrides variables if they are already configured. 
  
- • The book API has used from the https://developer.nytimes.com/. General functionality: 
+ • The book API has used from the https://developer.nytimes.com/.
  
- Home Pages
+<h1> Home Pages </h1>
  
 ![](Screenshots/Home1.png)
 ![](Screenshots/Home2.png)
 ![](Screenshots/Home3.png)
 
-Buy Now
+<h1> Buy Now </h1>
 
 ![](Screenshots/BuyNow.png)
 
