@@ -42,10 +42,14 @@ view the book details.
 ![](screenshots/Home2.png)
 ![](screenshots/Home3.png)
 
-<h1>Amezon Url</h1>
+<h1>Spinner</h1>
 
-
+![](screenshots/spinner.png)
 
 <h1>More Details</h1>
 
 ![](screenshots/Moredetails.png)
+
+
+
+
