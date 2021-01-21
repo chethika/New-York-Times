@@ -44,7 +44,7 @@ view the book details.
 
 <h1>Amezon Url</h1>
 
-![](screenshots/Home.png)
+
 
 <h1>More Details</h1>
 
