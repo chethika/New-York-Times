@@ -51,4 +51,3 @@ view the book details.
 ![](screenshots/More.png)
 
 
-
