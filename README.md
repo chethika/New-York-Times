@@ -44,7 +44,7 @@ view the book details.
 
 <h1>Spinner</h1>
 
-![](screenshots/spinner.png)
+![](screenshots/Spinner.png)
 
 <h1>More Details</h1>
 
