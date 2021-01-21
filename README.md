@@ -52,4 +52,3 @@ view the book details.
 
 
 
-
