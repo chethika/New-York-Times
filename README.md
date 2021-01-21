@@ -48,4 +48,4 @@ view the book details.
 
 <h1>More Details</h1>
 
-![](screenshots/More_details.png)
+![](screenshots/Moredetails.png)
