@@ -36,3 +36,6 @@ view the book details.
 
 • The book API has used from the https://developer.nytimes.com/.  
 
+<h1>Home Pages</h1>
+
+![](screenshots/Home.png)
