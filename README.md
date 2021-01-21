@@ -39,3 +39,13 @@ view the book details.
 <h1>Home Pages</h1>
 
 ![](screenshots/Home.png)
+![](screenshots/Home1.png)
+![](screenshots/Home2.png)
+
+<h1>Amezon Url</h1>
+
+![](screenshots/Home.png)
+
+<h1>More Details</h1>
+
+![](screenshots/More_details.png)
