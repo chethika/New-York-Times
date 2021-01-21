@@ -1,48 +1,45 @@
-<h1>Question 02 - React-based Web Application</h1> 
+﻿React Based Web Application - hSenid Mobile Solutions
 
- The task was to create web application to show the New York Times best-selling books list. 
- 
- • For that, I have used the given API according to the given instructions. 
- 
- • By using the web application which has been developed, the user can view the top sold book list. 
- 
- • The web application is consisted with a nav bar with the title of the web application.
- 
- • First, the web application loading the data and view the top sold book list and book list is displayed by using a card view. 
- 
- • Each one is displayed the details of the book such as book title and description about the particular book. 
- 
- • There are two buttons with every card. One is to purchase the books from Amazon and it has linked to the Amazon website and other button is to view the book details. 
+Selection Assessment - For Internship in Software Engineering
 
- 
- <h1>To Run the Web Application </h1>
- 
- • Clone the project. 
- 
- • Use “npm install” to install the all required dependencies. 
- 
- • Use “npm start” to start the local server.
- 
- • This web application uses “create-react-app”. 
- 
- • The standard React's port 3000 is used to run this project. 
- 
- • In the scripts section of package.json, you can configure the port. 
- 
- • It is ideal for using API keys and other sensitive stuff because .env file can be ignored by the Git. 
- 
- • Also, please delete the configuration variable from the package.json script segmentdotenv never overrides variables if they are already configured. 
- 
- • The book API has used from the https://developer.nytimes.com/.
- 
-<h1> Home Pages </h1>
- 
-![](Screenshots/Home1.png)
-![](Screenshots/Home2.png)
-![](Screenshots/Home3.png)
+Welcome to my React based web application which shows the New York Times Best Selling Books List. https://developer.nytimes.com/ is used as the Books API. The web app can be able to list the book list, view more details of the selected book and can proceed to purchase from Amazon.
 
-<h1> Buy Now </h1>
+How to Run the application locally
 
-![](Screenshots/BuyNow.png)
+1. Clone Repo
+
+      $ git clone https://github.com/Suha1998/hSenid_Assessment---React-Web-Application
+
+2. Install node modules
+
+      $ npm install
+
+3. Run the application
+
+      $ npm start
+
+      Runs the app in the development mode.\
+      Open (http://localhost:3000) to view it in the browser.
 
 
+
+Functionality of the application
+
+• Can view the bestselling books list (including the image of the specific book, title of the book, author, publisher and the Isbn number)
+
+• Contains two buttons in each card view which included details of the books : View More , Buy Now On Amazon
+
+• View More button - can view more details on the selected book (Including 'Go back' button which redirects to the home page and 'Buy Now On Amazon' button which links to the particular amazon page of the selected book )
+
+• Buy Now On Amazon - can proceed purchase from Amazon
+
+
+Books API
+
+https://developer.nytimes.com/ - API URL
+
+The HTTP request that I have used to access the books details: 
+
+https://api.nytimes.com/svc/books/v3/lists/hardcover-fiction.json?api-key=9fXXG1PxzkUIik2GozGDY1CniZTJV5Zy
+
+I have used Context API here for this project.
