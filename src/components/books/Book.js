@@ -35,7 +35,7 @@ import { Link } from 'react-router-dom';
                     <center>
                     <Link to={`/books/${book.primary_isbn10}`} 
                     className="btn btn-dark btn-block">
-                        <i className="fas fa-chevron-right"></i>  View More
+                        <i className="fas fa-chevron-right"></i>  More Details
                     </Link>
                     <br/><br/>
                     <a href = {book.amazon_product_url}
